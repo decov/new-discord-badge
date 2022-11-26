@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge">
-        <img src="https://support-dev.discord.com/hc/article_attachments/10226714575639" alt="Active Developer Badge"></img>
+        <img src="./images/badge-profile.png" alt="Active Developer Badge"></img>
     </a>
 </p>
 

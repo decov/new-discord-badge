@@ -1,0 +1,9 @@
+# normalizar automaticamente os finais de linhas
+* text=auto
+
+# fazendo com que arquivos markdown sejam reconhecíveis
+*.md text linguist-detectable
+
+# arquivos de imagens (png, jpg e jpeg)
+*.png binary
+*.{jpeg, jpg} binary

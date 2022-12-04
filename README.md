@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    obtenha agora a nova badge do discord por meio deste tutorial completo e explicativo.
+    get the new discord badge through this complete and explanatory tutorial. step-by-step.
 </p>
 
 ---

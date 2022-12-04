@@ -6,4 +6,4 @@
 
 # arquivos de imagens (png, jpg e jpeg)
 *.png binary
-*.{jpeg, jpg} binary
+*.{jpeg,jpg} binary
